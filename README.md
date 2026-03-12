@@ -1,0 +1,1 @@
+# FD-fitness-class-scheduler-lite
