@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -37,6 +38,9 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# FD-fitness-class-scheduler-lite
+>>>>>>> 50d28b9f318e6fa17dace3cc6e11b16cbd6e45db
 =======
 # FD-fitness-class-scheduler-lite
 >>>>>>> 50d28b9f318e6fa17dace3cc6e11b16cbd6e45db
